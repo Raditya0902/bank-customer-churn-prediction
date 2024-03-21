@@ -46,7 +46,7 @@ To run the code:
 
 1. Clone this repository to your local machine.
 2. Make sure you have Python installed along with the required dependencies (Pandas, Matplotlib, NumPy, Scikit-learn, TensorFlow, and imbalanced-learn).
-3. Run the Python script "binary_classification_model.py".
+3. Run the Jupyter Notebook "bank-customer-churn.ipynb".
 
 ## Conclusion
 
